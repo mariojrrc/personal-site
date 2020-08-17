@@ -1,0 +1,12 @@
+{
+    "name": "mariojrrc/personal-site",
+    "description": "Personal Site",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mario Costa",
+            "email": "mariojr.rcosta@gmail.com"
+        }
+    ],
+    "require": {}
+}
